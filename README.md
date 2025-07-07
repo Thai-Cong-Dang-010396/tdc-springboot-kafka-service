@@ -35,8 +35,8 @@ A simple microservice project demonstrating how to use **Apache Kafka** with **S
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/thaidc-springboot-kafka-container.git
-cd thaidc-springboot-kafka-container
+git clone https://github.com/Thai-Cong-Dang-010396/tdc-springboot-kafka-service.git
+cd tdc-springboot-kafka-service
 ```
 
 ### Start Kafka Environment
