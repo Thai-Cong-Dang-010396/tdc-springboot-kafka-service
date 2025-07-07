@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# macOS system files
+.DS_Store
+
+# Logs and temp
+*.log
+*.tmp
